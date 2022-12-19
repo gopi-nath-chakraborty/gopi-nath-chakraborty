@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopi-nath-chakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="gopi-nath-chakraborty" /> </p>
 
-- 🔭 I’m currently working on **Snamegame**
+- 🔭 I’m currently working on **Snakegame**
 
 - 🌱 I’m currently learning **React Native**
 
